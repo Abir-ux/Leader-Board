@@ -15,3 +15,93 @@
 .img2{
     width: 50px;
 }
+
+
+
+
+
+
+
+.header1{
+    width: 750px;
+    background-color: whitesmoke;
+    padding: 25px;
+    border-radius: 10px;
+   
+}
+
+.header-img{
+    width: 50px;
+}
+
+.names{
+    padding-top: 12px;
+}
+.top{
+    color: rgba(0, 0, 139, 0.582);
+}
+
+
+
+
+
+.asd{
+    border-top: 1px solid;
+    border-color: gray;
+    padding-top: 30px;
+}
+
+
+
+
+.header-img-2{
+    width: 150px;
+}
+
+.danny{
+    color: rgba(0, 0, 139, 0.466);
+}
+
+
+
+
+
+
+
+.header2{
+    width: 750px;
+    background-color: whitesmoke;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+
+.img21{
+    padding: 10px;
+}
+.card-text3{
+    color: rgba(255, 0, 0, 0.883);
+}
+
+.hug-img{
+    width: 12px;
+}
+
+.star{
+    color: gray;
+}
+.hug-img1{
+    width: 15px;
+}
+.pink{
+    color: hotpink;
+}
+.plm{
+    background-color: rgba(255, 105, 180, 0.212);
+    padding: 2px;
+    border-radius: 30px;
+}
+.card4{
+    border-radius: 12px;
+    background-color: white;
+}
